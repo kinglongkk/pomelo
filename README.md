@@ -9,7 +9,7 @@ Pomelo is also suitable for real-time web applications; its distributed architec
  * Homepage: <http://pomelo.netease.com/>
  * Mailing list: <https://groups.google.com/group/pomelo>
  * Documentation: <http://github.com/NetEase/pomelo>
- * Wiki: <https://github.com/NetEase/pomelo/wiki/>
+ * Wiki: <https://github.com/NetEase/pomelo/wiki/Home-in-Chinese>
  * Issues: <https://github.com/NetEase/pomelo/issues/>
  * Tags: game, nodejs
 
